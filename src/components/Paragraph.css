@@ -1,0 +1,22 @@
+.paragraph {
+  background-color: rgba(13, 10, 44, 0.747);
+  text-align: left;
+  color: white;
+  padding: 4rem 2rem 4rem 2rem;
+  margin: 4rem 2rem 4rem 2rem;
+}
+@font-face {
+  font-family: Hanson;
+  src: url(C:\Users\vagdevi\Desktop\votingapp\src\components\Hanson-Bold.ttf);
+}
+
+.box-heading {
+  font-family: Hanson;
+  padding: 0rem 0rem 0rem 10rem;
+}
+.points {
+  font-style: oblique;
+  font: size 1.5rem;
+  line-height: 2rem;
+  padding: 0rem 0rem 0rem 14rem;
+}

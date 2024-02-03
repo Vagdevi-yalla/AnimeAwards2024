@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://img.freepik.com/free-vector/gradient-lo-fi-illustrations_52683-84145.jpg?w=740&t=st=1706545618~exp=1706546218~hmac=a37d4dac1a6e4ab003de3b11639d890d0d15f860243b72e6938f90bcd91bba89");
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat-y;
+  height: 100vh;
+  width: 100%;
+}
+/*================================Nav Bar===============================*/
+.App {
+  font-family: Montserrat;
+  font-weight: 600;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/*=================================SLIDER CONTAINER=============================*/
+.categories-container {
+  background-color: #0d0a2c;
+  border-radius: 1rem;
+  text-align: left;
+  color: white;
+  margin: 5rem 5rem 5rem 5rem;
+}
+
+.Category-styles {
+  font-family: Hanson;
+  text-align: center;
+  padding: 5rem 1rem 1rem 1rem;
+}
