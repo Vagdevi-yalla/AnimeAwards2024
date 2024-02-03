@@ -1,0 +1,9 @@
+{
+  "name": "Anime Awards 2024",
+  "short_name": "Awards",
+  "description": "Voting website for Anime Awards",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
